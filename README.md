@@ -27,7 +27,9 @@ Data repository for the Programming for Data Analysis Assignment 1
 
 Jupyter Notebooks are an interactive way to explain code, visualize data and share your ideas with others. Further information on Jupyter Notebooks can be found [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html).
 
-The submitted Jupyter Notebook is accessed [here, **submission_notebook.ipynb**](submission_notebook.ipynb).
+The submitted Jupyter Notebook is accessed here - [submission_notebook.ipynb](submission_notebook.ipynb).
+
+To run this file in a fully interactive way the Jupyter Notebooks server must be installed on the local machine. Instructions on how to install Jupyter Notebooks server can be found [here](https://jupyter.org/install).
 
 ---
 
