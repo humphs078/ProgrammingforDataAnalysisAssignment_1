@@ -3,7 +3,9 @@
 
 Author: Sean Humphreys
 
-Data repository for the Programming for Data Analysis Assignment 1
+This data repository contains the submissions for the Programming for Data Analysis Assignment 1.
+
+Instructions on the use of the files in the repository and the guidance on how to use the contents of the repository are outlined below.
 
 ---
 
@@ -11,6 +13,8 @@ Data repository for the Programming for Data Analysis Assignment 1
 
 1. [Problem Statement](#problem-statement)
 2. [Jupyter Notebooks](#jupyter-notebooks-jupyter_logo)
+3. [Python Requirements](#python-requirements)
+4. [Datasets](#datasets)
 
 ---
 
@@ -33,10 +37,40 @@ To run this file in a fully interactive way the Jupyter Notebooks server must be
 
 ---
 
-## References
+## Python Requirements ![python_logo](/images/illustrations/python_logo_mod_sh_title.png)
+
+The following software libraries must be installed on the local machine to properly run the jupyter notebook:
+
+- Matplotlib - `pip install matplotlib`
+- Numpy -  `pip install numpy`
+- Pandas - `pip install pandas`
+- SciPy - python -m pip install scipy
+
+
+To install using pip:
+
+`pip install matplotlib`
+
+`pip install numpy`
+
+`pip install pandas`
+
+`pip install scipy`
+
+To install using conda:
+
+`conda install matplotlib`
+
+`conda install numpy`
+
+`conda install pandas`
+
+`conda install scipy`
 
 ---
 
-## Associated Reading
+## Datasets
 
----
+A CSV of the source dataset can be accessed [here](/datasets/back_garden_sensor_data_12_months.csv).
+
+A CSV of the simulated dataset can be accessed here.
