@@ -12,7 +12,7 @@ Instructions on the use of the files in the repository and the guidance on how t
 ## Contents
 
 1. [Problem Statement](#problem-statement)
-2. [Jupyter Notebooks](#jupyter-notebooks-jupyter_logo)
+2. [Jupyter Notebooks](#jupyter-notebooks)
 3. [Python Requirements](#python-requirements)
 4. [Datasets](#datasets)
 
@@ -27,7 +27,9 @@ Instructions on the use of the files in the repository and the guidance on how t
 
 ---
 
-## Jupyter Notebooks  ![jupyter_logo](/images/illustrations/jupyter_logo_mod_sh.png)
+## Jupyter Notebooks 
+
+![jupyter_logo](/images/illustrations/jupyter_logo_mod_sh.png)
 
 Jupyter Notebooks are an interactive way to explain code, visualize data and share your ideas with others. Further information on Jupyter Notebooks can be found [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html).
 
@@ -37,14 +39,19 @@ To run this file in a fully interactive way the Jupyter Notebooks server must be
 
 ---
 
-## Python Requirements ![python_logo](/images/illustrations/python_logo_mod_sh_title.png)
+## Python Requirements 
+
+![python_logo](/images/illustrations/python_logo_mod_sh_title.png)
 
 The following software libraries must be installed on the local machine to properly run the jupyter notebook:
 
-- Matplotlib - `pip install matplotlib`
-- Numpy -  `pip install numpy`
-- Pandas - `pip install pandas`
-- SciPy - python -m pip install scipy
+- Matplotlib
+
+- Numpy
+
+- Pandas
+
+- SciPy
 
 
 To install using pip:
