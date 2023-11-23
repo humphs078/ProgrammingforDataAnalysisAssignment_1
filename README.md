@@ -51,7 +51,11 @@ The following software libraries must be installed on the local machine to prope
 
 - Pandas
 
+- Pathlib
+
 - SciPy
+
+- Seaborn
 
 
 To install using pip:
@@ -62,7 +66,11 @@ To install using pip:
 
 `pip install pandas`
 
+`pip install pathlib`
+
 `pip install scipy`
+
+`pip install seaborn`
 
 To install using conda:
 
@@ -72,7 +80,11 @@ To install using conda:
 
 `conda install pandas`
 
+`conda install -c anaconda pathlib`
+
 `conda install scipy`
+
+`conda install seaborn`
 
 ---
 
