@@ -57,34 +57,13 @@ The following software libraries must be installed on the local machine to prope
 
 - Seaborn
 
+To install the packages according to the configuration file use the following command:
 
-To install using pip:
+```bash
+pip install -r requirements.txt
+```
 
-`pip install matplotlib`
 
-`pip install numpy`
-
-`pip install pandas`
-
-`pip install pathlib`
-
-`pip install scipy`
-
-`pip install seaborn`
-
-To install using conda:
-
-`conda install matplotlib`
-
-`conda install numpy`
-
-`conda install pandas`
-
-`conda install -c anaconda pathlib`
-
-`conda install scipy`
-
-`conda install seaborn`
 
 ---
 
@@ -92,4 +71,4 @@ To install using conda:
 
 A CSV of the source dataset can be accessed [here](/datasets/back_garden_sensor_data_12_months.csv).
 
-A CSV of the simulated dataset can be accessed here.
+A CSV of the simulated dataset can be accessed [here](/datasets/synthesised_dataset.csv).
